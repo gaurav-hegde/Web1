@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.top-container {
+    background-color: #F1ECC3;
+    text-align: center;
+    padding: 16rem 1rem 16rem 1rem;
+}
+
+.pic {
+    height: 12rem;
+    border-radius: 50%;
+}
+
+.middle-container {
+    background-color: #C9D8B6;
+    text-align: center;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+.bottom-container {
+    color: white;
+    background-color: #57837B;
+    text-align: center;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+.touch {
+    margin-bottom: 0;
+}
+
+h1 {
+    margin: 0 auto 0 auto;
+    font-size: 5rem;
+}
+
+h2{
+    font-size: 2rem;
+    color: #515E63;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+h4 {
+    font-size: 2rem;
+}
+
+a {
+    color: #F1ECC3;
+}
+.skill-pics {
+    height: 8rem;
+}
+
+.icon {
+    height: 4rem;
+}
